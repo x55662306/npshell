@@ -1,0 +1,7 @@
+#include<string>
+
+userList::userList
+{
+
+}
+
